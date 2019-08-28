@@ -1,0 +1,27 @@
+ 
+  
+  .special_boy {
+    background-color: #F1F1F2;
+  }
+  .deal_over:hover {
+    background-color: silver;
+    color: white;
+  }
+  p {
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .jumbotron {
+    background-image: url("coffee.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    margin: 0;
+    padding: 0;
+    }
+    .jumbotron button:hover {
+      background-color: #555;
+      color: white;
+    }
+  
